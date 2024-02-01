@@ -13,8 +13,8 @@ Ce projet introduit BlockBox, une plateforme révolutionnaire de réseau social 
 ## Technologies
 - **Solidity** : Langage de programmation pour écrire les contrats intelligents.
 - **Ethereum Blockchain** : Plateforme choisie pour déployer le contrat intelligent.
-- **Clerk** : Plateforme de gestion d'utilisateurs et d'authentification offrant des interfaces utilisateur intégrables, des API flexibles et des tableaux de bord administratifs pour une gestion sécurisée et privée des identités d'utilisateurs.
-## Installation et Configuration
+- **Clerk** : Plateforme de gestion d'utilisateurs et d'authentification
+
 Pour utiliser ce projet, vous devez avoir Node.js et npm installés sur votre machine.
 
 1. Clonez le dépôt :
