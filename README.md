@@ -30,7 +30,12 @@ Pour utiliser ce projet, vous devez avoir Node.js et npm installés sur votre ma
    ```
 3. Compilez et déployez le contrat intelligent sur un réseau de test (par exemple, Ganache) :
    ```
-   Demande à Nassim la commande
+   cd backend
+   cd blockbox-hardhat
+   npx hardhat node //Pour initialiser le noeud en local
+   npx hardhat compile
+   npx hardhat run scripts/deploy.js --network localhost
+   
    ```
 
 ## Exemples de Fonctions
