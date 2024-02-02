@@ -14,7 +14,8 @@ Ce projet introduit BlockBox, une plateforme révolutionnaire de réseau social 
 - **Solidity** : Langage de programmation pour écrire les contrats intelligents.
 - **Ethereum Blockchain** : Plateforme choisie pour déployer le contrat intelligent.
 - **Clerk** : Plateforme de gestion d'utilisateurs et d'authentification
-- **Node.js & npm** : Nécessaires pour la mise en place de notre environnement de développement 
+- **Node.js & npm** : Nécessaires pour la mise en place de notre environnement de développement
+- **Hardhat** : Hardhat est un environnement de développement Ethereum qui facilite la création, le test, et le débogage de contrats intelligents.
 
 Pour utiliser ce projet, vous devez avoir Node.js et npm installés sur votre machine.
 
